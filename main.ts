@@ -12,7 +12,7 @@ basic.forever(function () {
     }
     if (feuchtigkeit < 200) {
         music.playMelody("G E G E G E G E ", 80)
-    } else if (feuchtigkeit > 600) {
+    } else if (feuchtigkeit > 700) {
         music.playMelody("A - A - A - A - ", 80)
     }
     if (licht < 50) {
