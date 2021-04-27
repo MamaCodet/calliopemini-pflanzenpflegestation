@@ -1,3 +1,5 @@
+<img href="https://github.com/MamaCodet/calliopemini-pflanzenpflegestation/blob/master/Pflanzenpflegestation.jpg" />
+
 
 > Diese Seite bei [https://mamacodet.github.io/calliopemini-pflanzenpflegestation/](https://mamacodet.github.io/calliopemini-pflanzenpflegestation/) öffnen
 
